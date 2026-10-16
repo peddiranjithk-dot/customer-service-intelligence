@@ -1,0 +1,11 @@
+ticket_id,customer,channel,message,response_minutes,resolved
+1001,Asha,Email,I was charged twice for my invoice and I want a refund immediately,180,no
+1002,Ravi,Chat,Thanks for the quick help the app login works perfectly now,5,yes
+1003,Meera,Phone,My package is delayed and tracking shows nothing. This is unacceptable,300,no
+1004,John,Email,Please update my email address on my account,60,yes
+1005,Priya,Chat,The website keeps crashing with an error when I pay. Terrible experience,45,no
+1006,Karan,Email,Great service and helpful support team. Love the new subscription plan,30,yes
+1007,Sneha,Phone,Order arrived damaged and the wrong item was sent. I am very frustrated,400,no
+1008,Amit,Chat,How do I upgrade my subscription,10,yes
+1009,Divya,Email,This is urgent. I think there is fraud on my account and I was overcharged,120,no
+1010,Vikram,Chat,The app is not good. Password reset failed again,90,no
